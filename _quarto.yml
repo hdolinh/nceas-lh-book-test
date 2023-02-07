@@ -1,14 +1,16 @@
 project:
   type: book
+  output-dir: _book
 
 book:
-  title: "nceas-lh-book-test"
-  author: "Jane Doe"
-  date: "2/7/2023"
+  title: "Fundamentals in Data Management for Qualitative and Quantitative Arctic Research"
+  # author: "Arctic Data Center"
+  # date: today
+  # date-format: iso
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
+    - open-data-reproducibility.qmd
     - references.qmd
 
 bibliography: references.bib

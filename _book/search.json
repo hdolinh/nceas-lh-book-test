@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "nceas-lh-book-test",
+    "title": "Fundamentals in Data Management for Qualitative and Quantitative Arctic Research",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Preface\nJanuary 30 - February 3, 2023\n\n\nAbout the Course\nThis 5-day in-person workshop will provide researchers with an overview of reproducible and ethical research practices, steps and methods for more easily documenting and preserving their data at the Arctic Data Center, and an introduction to programming in R. Special attention will be paid to qualitative data management, including practices working with sensitive data. Example datasets will draw from natural and social sciences, and methods for conducting reproducible research will be discussed in the context of both qualitative and quantitative data. Responsible and reproducible data management practices will be discussed as they apply to all aspects of the data life cycle. This includes ethical data collection and data sharing, data sovereignty, and the CARE principles. The CARE principles are guidelines that help ensure open data practices (like the FAIR principles) appropriately engage with Indigenous Peoples’ rights and interests.\n\n\nSchedule\n\n\nCode of Conduct\nPlease note that by participating in this activity you agree to abide by the NCEAS Code of Conduct.\n\n\nAcknowledgements\nThese written materials reflect the continuous development of learning materials at the Arctic Data Center and NCEAS to support individuals to understand, adopt, and apply ethical open science practices. In bringing these materials together we recognize that many individuals have contributed to their development. The primary authors are listed alphabetically in the citation below, with additional contributors recognized for their role in developing previous iterations of these or similar materials.\nCitation: Amber E. Budden, S. Jeanette Clark, Natasha Haycock-Chavez, Noor Johnson, Matthew B. Jones. 2022. Fundamentals in Data Management for Qualitative and Quantitative Arctic Research.\nAdditional contributors: Stephanie Hampton, Jim Regetz, Bryce Mecum, Julien Brun, Julie Lowndes, Erin McLean, Andrew Barrett, David LeBauer, Jessica Guo.\n\n\nLicense\nThis work is licensed under a Creative Commons Attribution 4.0 International License."
   },
   {
     "objectID": "intro.html",
@@ -26,5 +26,40 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "intro.html#objectives",
+    "href": "intro.html#objectives",
+    "title": "1  Welcome and Overview",
+    "section": "1.1 Objectives",
+    "text": "1.1 Objectives\n\nThe mission and structure of the Arctic Data Center\nHow the Arctic Data Center supports the research community\nAbout data policies from the NSF Arctic program"
+  },
+  {
+    "objectID": "intro.html#arctic-data-center-overview",
+    "href": "intro.html#arctic-data-center-overview",
+    "title": "1  Welcome and Overview",
+    "section": "1.2 Arctic Data Center Overview",
+    "text": "1.2 Arctic Data Center Overview\nThe Arctic Data Center is the primary data and software repository for the Arctic section of National Science Foundation's Office of Polar Programs (NSF OPP).\nWe're best known in the research community as a data archive – researchers upload their data to preserve it for the future and make it available for re-use. This isn't the end of that data's life, though. These data can then be downloaded for different analyses or synthesis projects. In addition to being a data discovery portal, we also offer top-notch tools, support services, and training opportunities. We also provide data rescue services."
+  },
+  {
+    "objectID": "open-data-reproducibility.html",
+    "href": "open-data-reproducibility.html",
+    "title": "2  Open Data and Reproducibility",
+    "section": "",
+    "text": "3 Learning Objectives\n\nShared understanding of open and research reproducibility\nIntroduction to computational reproducibility\nIntroduction to FAIR and CARE as they relate to open data\nFamiliarity with metadata best practices\n\n\n\n4 What is open science and research reproducibility?\nThroughout this course you will hear us emphasize open practices and research reproducibility. Indeed, as a data repository charged with both preserving and making accessible the products of NSF funded research, it is no surprise that these topics are central to our mission. However, these terms, while readily parsed, can mean different things to different individuals depending on their frame of reference and research activities. Further, even with a shared definition variation exists in the degree to which openness and research reproducibility can (or should) be implemented.\nBefore we begin, we are going to take the time to discuss and possibly develop a shared understanding of the terms ‘open’ and ‘reproducible’ as they pertain to research."
+  },
+  {
+    "objectID": "open-data-reproducibility.html#learning-objectives",
+    "href": "open-data-reproducibility.html#learning-objectives",
+    "title": "2  Open Data and Reproducibility",
+    "section": "2.1 Learning Objectives",
+    "text": "2.1 Learning Objectives\n\nShared understanding of open and research reproducibility\nIntroduction to computational reproducibility\nIntroduction to FAIR and CARE as they relate to open data\nFamiliarity with metadata best practices"
+  },
+  {
+    "objectID": "open-data-reproducibility.html#what-is-open-science-and-research-reproducibility",
+    "href": "open-data-reproducibility.html#what-is-open-science-and-research-reproducibility",
+    "title": "2  Open Data and Reproducibility",
+    "section": "2.2 What is open science and research reproducibility?",
+    "text": "2.2 What is open science and research reproducibility?\nThroughout this course you will hear us emphasize open practices and research reproducibility. Indeed, as a data repository charged with both preserving and making accessible the products of NSF funded research, it is no surprise that these topics are central to our mission. However, these terms, while readily parsed, can mean different things to different individuals depending on their frame of reference and research activities. Further, even with a shared definition variation exists in the degree to which openness and research reproducibility can (or should) be implemented.\nBefore we begin, we are going to take the time to discuss and possibly develop a shared understanding of the terms ‘open’ and ‘reproducible’ as they pertain to research."
   }
 ]

@@ -1,9 +1,15 @@
-# Introduction
+# Welcome and Overview
 
-This is a book created from markdown and executable code.
+## Objectives
 
-See @knuth84 for additional discussion of literate programming.
+-   The mission and structure of the Arctic Data Center
 
-```{r}
-1 + 1
-```
+-   How the Arctic Data Center supports the research community
+
+-   About data policies from the NSF Arctic program
+
+## Arctic Data Center Overview
+
+The Arctic Data Center is the primary data and software repository for the Arctic section of National Science Foundation\'s Office of Polar Programs (NSF OPP).
+
+We\'re best known in the research community as a data archive -- researchers upload their data to preserve it for the future and make it available for re-use. This isn\'t the end of that data\'s life, though. These data can then be downloaded for different analyses or synthesis projects. In addition to being a data discovery portal, we also offer top-notch tools, support services, and training opportunities. We also provide data rescue services.
